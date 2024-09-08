@@ -24,6 +24,6 @@ Additionally, a real-time partitioning algorithm is implemented to segregate dat
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/shashwat39/synchrophasor-compression.git
-cd synchrophasor-compression
+git clone https://github.com/Yash070707/SVD-Synchrophasor-Data-Compression.git
+cd synchrophasor-data-compression
 
